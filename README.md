@@ -1,6 +1,6 @@
 # BROOKLYN - BEST MESSAGE BOMBER SPECIALLY FOR INDIAN PEOPLE! 🔴🔴🔴🔴✔ 
 
-## YES YOU ARE A H3CKER ! 🔴🔴🔴🔴✔
+## YEAHHHH! I AM A H3CKER ! 🔴🔴🔴🔴✔
 <h1 align="center">
   <br>
   <a href="https://github.com/AlexBieber/BROOKLYN"><img src="https://c.tenor.com/g9tGoPju1mcAAAAC/girl-baby.gif" alt="BROOKLYN"></a>
@@ -70,7 +70,7 @@ Now enter the SMS count: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
 ##
 
 <h3 align="center">
-:: YOUR MIND TO YOURSELF AT THIS MOMENT ::
+:: VICTIM  AT THIS MOMENT ::
 </h3>
 <p align="center">
 <img src="https://c.tenor.com/E0hDkWw6OIgAAAAC/brooklyn-nine-nine-amy-santiago.gif"/>
