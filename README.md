@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/AlexBieber/BROOKLYN"><img src="https://horoshop.ua/content/images/16/kak-sdelat-chtoby-pisma-ne-popadali-v-spam-11248663734326.jpg" alt="BROOKLYN"></a>
+  <a href="https://github.com/AlexBieber/BROOKLYN"><img src="https://c.tenor.com/E0hDkWw6OIgAAAAC/brooklyn-nine-nine-amy-santiago.gif" alt="BROOKLYN"></a>
   <br>
   BROOKLYN🔴🔴🔴🔴
   <br>
@@ -65,6 +65,17 @@ and the number of SMS you want to send respectively.
 Enter the Victim's Phone No.: +91 "ENTER_10_DIGIT_NUMBER_HERE"
 Now enter the SMS count: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
 ```
+
+##
+
+<h3 align="center">
+:: Workflow ::
+</h3>
+<p align="center">
+<img src="https://images.prismic.io/pepipost/e3269b46-fa9c-4a6f-945a-eccc268cd2dd_types+of+emails+scam.gif?auto=compress,format"/>
+</p>
+ <a href="https://www.buymeacoffee.com/alexbieber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
