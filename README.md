@@ -1,10 +1,11 @@
 # BROOKLYN - BEST MESSAGE BOMBER SPECIALLY FOR INDIAN PEOPLE! 🔴🔴🔴🔴✔ 
 
+## VICTIM'S REACTION AFTER YOU'LL DO SMS BOMBING ! 🔴🔴🔴🔴✔
 <h1 align="center">
   <br>
   <a href="https://github.com/AlexBieber/BROOKLYN"><img src="https://c.tenor.com/E0hDkWw6OIgAAAAC/brooklyn-nine-nine-amy-santiago.gif" alt="BROOKLYN"></a>
   <br>
-  BROOKLYN🔴🔴🔴🔴
+  BROOKLYN🔴🔴🔴🔴✔
   <br>
 </h1>
 <p align="center">
@@ -69,10 +70,10 @@ Now enter the SMS count: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
 ##
 
 <h3 align="center">
-:: Workflow ::
+:: YOUR MIND TO YOURSELF AT THIS MOMENT ::
 </h3>
 <p align="center">
-<img src="https://images.prismic.io/pepipost/e3269b46-fa9c-4a6f-945a-eccc268cd2dd_types+of+emails+scam.gif?auto=compress,format"/>
+<img src="https://64.media.tumblr.com/760119f1aa5bbef35fc96a45ac807a6e/df66e75a8f8c3251-94/s500x750/2a6592a4d6eed533482c220164a8a28892d734a3.gifv"/>
 </p>
  <a href="https://www.buymeacoffee.com/alexbieber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
