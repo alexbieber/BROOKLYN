@@ -62,9 +62,9 @@ and the number of SMS you want to send respectively.
 <br>For Example:<br>
 
 ```
-./Tsunami.sh
-Enter the Victim's Phone No.: +91 "ENTER_10_DIGIT_NUMBER_HERE"
-Now enter the SMS count: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
+* `./Tsunami.sh
+* `Enter the Victim's Phone No.: +91 "ENTER_10_DIGIT_NUMBER_HERE"
+* `Now enter the SMS count: "ENTER_THE_NUMBER_OF_SMS_TO_SEND"
 ```
 
 ##
